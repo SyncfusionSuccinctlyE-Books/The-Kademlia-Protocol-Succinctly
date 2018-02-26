@@ -1,4 +1,4 @@
-# Xamarin.Forms Succinctly
+# The Kademlia Protocol Succinctly
 
 This is the companion repo for [*The Kademlia Protocol Succinctly*](https://www.syncfusion.com/ebooks) by Marc Clifton. Published by Syncfusion.
 
