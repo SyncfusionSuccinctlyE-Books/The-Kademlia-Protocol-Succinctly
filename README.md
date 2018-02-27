@@ -7,3 +7,7 @@ This is the companion repo for [*The Kademlia Protocol Succinctly*](https://www.
 ## Looking for more _Succinctly_ titles?
 
 Check out the entire library of more than 130 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
+
+# Loading the project into Visual Studio 2017
+
+The solution file is in the folder Clifton.Kademlia.
